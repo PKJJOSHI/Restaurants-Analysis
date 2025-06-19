@@ -42,21 +42,16 @@ This project involves analyzing a restaurant dataset to discover insights relate
 
 ---
 
-## 📷 Sample Visualizations
+### 📊 Sample Visualizations
 
-### Top Cuisines
+#### 🍽️ Top Cuisines  
 ![Top Cuisines](https://raw.githubusercontent.com/PKJJOSHI/Restaurants-Analysis/main/images/top_cuisines.png)
 
-### City Ratings
+#### 🏙️ City Ratings  
 ![City Ratings](https://raw.githubusercontent.com/PKJJOSHI/Restaurants-Analysis/main/images/city_ratings.png)
 
-### Price Range Distribution
+#### 💰 Price Range Distribution  
 ![Price Range](https://raw.githubusercontent.com/PKJJOSHI/Restaurants-Analysis/main/images/price_range.png)
 
-### Online Delivery Ratings
+#### 🚚 Online Delivery Ratings  
 ![Online Delivery](https://raw.githubusercontent.com/PKJJOSHI/Restaurants-Analysis/main/images/online_delivery.png)
-
----
-
-## 🙋‍♂️ About Me
-I’m a fresher in data science, and this is one of my first real-world projects. Feedback is welcome!
