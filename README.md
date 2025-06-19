@@ -48,13 +48,13 @@ This project involves analyzing a restaurant dataset to discover insights relate
 ![Top Cuisines](https://raw.githubusercontent.com/PKJJOSHI/Restaurants-Analysis/main/images/top_cuisines.png)
 
 ### City Ratings
-![City Ratings](https://raw.githubusercontent.com/exampleuser/restaurant-analysis-project/main/images/city_ratings.png)
+![City Ratings](https://raw.githubusercontent.com/PKJJOSHI/Restaurants-Analysis/main/images/city_ratings.png)
 
 ### Price Range Distribution
-![Price Range](https://raw.githubusercontent.com/exampleuser/restaurant-analysis-project/main/images/price_range.png)
+![Price Range](https://raw.githubusercontent.com/PKJJOSHI/Restaurants-Analysis/main/images/price_range.png)
 
 ### Online Delivery Ratings
-![Online Delivery](https://raw.githubusercontent.com/exampleuser/restaurant-analysis-project/main/images/online_delivery.png)
+![Online Delivery](https://raw.githubusercontent.com/PKJJOSHI/Restaurants-Analysis/main/images/online_delivery.png)
 
 ---
 
