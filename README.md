@@ -45,7 +45,7 @@ This project involves analyzing a restaurant dataset to discover insights relate
 ### 📊 Sample Visualizations
 
 #### 🍽️ Top Cuisines  
-![Top Cuisines](https://raw.githubusercontent.com/PKJJOSHI/Restaurants-Analysis/main/images/top_cuisines.png)
+![Top Cuisines](https://raw.githubusercontent.com/PKJJOSHI/Restaurants-Analysis/main/images)
 
 #### 🏙️ City Ratings  
 ![City Ratings](https://raw.githubusercontent.com/PKJJOSHI/Restaurants-Analysis/main/images/city_ratings.png)
